@@ -17,12 +17,12 @@ Diagnostic tool is publicly available at: https://github.com/BVU-BILSAB/dita_viv
 The tool can be used in Windows, MacOS and Linux systems.
 
 2.	Algorithm
---------------
+_____________
 
 .. image:: Picture1.png
 
 3.	Input File and Parameters
-------------------------------
+____________________________
 
 3.1.	Input File
 ~~~~~~~~~~~~~~~~
@@ -35,7 +35,7 @@ DiTA uses aligned DNA sequences in .afa format. Publicly available alignment too
 Taxonomy ID of the species of interest is required to be provided in the script. 
 
 4.	How to Interpret the Results
---------------------------------
+_______________________________
 
 Table 1. DiTA results for Spike Protein of Zaira Ebola Virus (shortened).
 
@@ -114,7 +114,7 @@ The number of total hits belonging to the species, that are similar to the HCS o
 This metric represents the incidence of the HCS of interest in the specific species. 
 
 5.	FAQs and Support
---------------------
+___________________
 
 There are 4 output files generated while using this tool:
 

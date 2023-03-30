@@ -16,11 +16,13 @@ Diagnostic tool is publicly available at: https://github.com/BVU-BILSAB/dita_viv
 
 The tool can be used in Windows, MacOS and Linux systems.
 
+____________
 2.	Algorithm
 _____________
 
 .. image:: Picture1.png
 
+____________________________
 3.	Input File and Parameters
 ____________________________
 
@@ -34,6 +36,7 @@ DiTA uses aligned DNA sequences in .afa format. Publicly available alignment too
 
 Taxonomy ID of the species of interest is required to be provided in the script. 
 
+_______________________________
 4.	How to Interpret the Results
 _______________________________
 
@@ -112,7 +115,7 @@ The number of total hits belonging to the species, that are similar to the HCS o
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This metric represents the incidence of the HCS of interest in the specific species. 
-
+___________________
 5.	FAQs and Support
 ___________________
 
